@@ -1,5 +1,8 @@
+numpy
+flask
 pandas
-Flask
-plotly
+scikit-learn
+seaborn
+ipykernel 
 
--e
+-e .
